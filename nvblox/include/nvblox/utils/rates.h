@@ -19,6 +19,7 @@ limitations under the License.
 #include <unordered_map>
 
 #include <glog/logging.h>
+#include <array>
 
 #include <nvblox/utils/timing.h>
 
